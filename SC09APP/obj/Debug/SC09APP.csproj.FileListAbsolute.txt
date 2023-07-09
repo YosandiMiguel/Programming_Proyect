@@ -1,0 +1,48 @@
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.AssemblyReference.cache
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\SC09APP\obj\Debug\SC09AAPP.frmUsuario.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\SC09APP\obj\Debug\SC09APP.Properties.Resources.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.GenerateResource.cache
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.CoreCompileInputs.cache
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\bin\Debug\SC09APP.exe.config
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\bin\Debug\SC09APP.exe
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\bin\Debug\SC09APP.pdb
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.frmUsuario.resources
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENUUSER.resources
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.Properties.Resources.resources
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.GenerateResource.cache
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.CoreCompileInputs.cache
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.exe
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.pdb
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENPOS.resources
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.frmPosiciones.resources
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.AssemblyReference.cache
+C:\ITLA 2023 C2\PRG 1\SC11\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENCTE.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\bin\Debug\SC09APP.exe.config
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\bin\Debug\SC09APP.exe
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\bin\Debug\SC09APP.pdb
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.AssemblyReference.cache
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.frmPosiciones.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.frmUsuario.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENCTE.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENPOS.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENUUSER.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.Properties.Resources.resources
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.GenerateResource.cache
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.CoreCompileInputs.cache
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.exe
+C:\ITLA 2023 C2\PRG 1\SC09\SC09APP\SC09APP\obj\Debug\SC09APP.pdb
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\bin\Debug\SC09APP.exe.config
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\bin\Debug\SC09APP.exe
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\bin\Debug\SC09APP.pdb
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.AssemblyReference.cache
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.frmPosiciones.resources
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.frmUsuario.resources
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENCTE.resources
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENPOS.resources
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.frmVENUUSER.resources
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.Properties.Resources.resources
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.GenerateResource.cache
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.csproj.CoreCompileInputs.cache
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.exe
+C:\Users\yosandi\Desktop\class\programming\Proyecto\SC09APP\SC09APP\obj\Debug\SC09APP.pdb
